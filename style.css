@@ -413,6 +413,9 @@ li {
     height: auto;
     margin: 0 auto;
   }
+  .jorge {
+    padding-left: 25%;
+  }
 }
 
 @media only screen and (max-width: 769px) {
@@ -503,6 +506,7 @@ li {
   }
   .jorge {
     margin-left: 0 ;
+    padding-left: 0;
   }
 }
 
@@ -590,7 +594,20 @@ li {
     font-size: 30px;
     line-height: 30px;
   } */
-
+  .we_work {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .get_started {
+    font-size: 14px;
+    padding: 10px;
+  }
+  .since {
+    font-size: 14px;
+  }
+  .h_worked {
+    padding-top: 40px; ;
+  }
   .why {
     font-size: 40px;
     width: 33%;
